@@ -12,7 +12,7 @@ This project uses **SRGAN (Super-Resolution Generative Adversarial Network)** to
 ## Demo
 
 <!-- Replace the URL below with your actual demo video link -->
-[![Demo Video](https://github.com/arnavbhatiamait/ESRGAN-4x/blob/45bf3042103b903c0fe959eae0685ac20fec851d/Demo%20images/Screenshot%202025-07-28%20174638.png)](https://github.com/arnavbhatiamait/ESRGAN-4x/blob/45bf3042103b903c0fe959eae0685ac20fec851d/Demo%20images/sragn_final.mp4)
+[![Demo Video](https://github.com/arnavbhatiamait/ESRGAN-4x/blob/45bf3042103b903c0fe959eae0685ac20fec851d/Demo%20images/sragn_final.mp4)
 
 Take a look at the results below:
 
@@ -31,30 +31,30 @@ Take a look at the results below:
 ## Installation & Usage
 
 ### 1. Clone the Repository
-'''
+```
 git clone https://github.com/yourusername/srgan-4x-upscaler.git
 cd srgan-4x-upscaler
-'''
+```
 
 ### 2. Set Up Environment (Optional)
 
 It is recommended to use a virtual environment:
-'''
+```
 python -m venv venv
 source venv/bin/activate # On Windows: venv\Scripts\activate
-'''
+```
 
 
 ### 3. Install Requirements
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 
 ### 4. Run the App
-'''
+```
 streamlit run app.py
-'''
+```
 
 The app will open in your browser at `http://localhost:8501/`.
 
@@ -90,11 +90,12 @@ This project is open source under the MIT License.
 
 ---
 
-#### Hashtags
+<!-- #### Hashtags
 
-#SRGAN #ImageSuperResolution #DeepLearning #GANs #DIV2K #ComputerVision #AI #HuggingFace #Streamlit #OpenSource #ImageUpscaler #4xUpscale
+`#SRGAN #ImageSuperResolution #DeepLearning #GANs #DIV2K #ComputerVision #AI #HuggingFace #Streamlit #OpenSource #ImageUpscaler #4xUpscale` -->
 
----
+
+
 
 
 
