@@ -12,8 +12,11 @@ This project uses **SRGAN (Super-Resolution Generative Adversarial Network)** to
 ## Demo
 
 <!-- Replace the URL below with your actual demo video link -->
-[![Demo Video](https://github.com/arnavbhatiamait/ESRGAN-4x/blob/45bf3042103b903c0fe959eae0685ac20fec851d/Demo%20images/sragn_final.mp4)
-
+<!--[![Demo Video](https://github.com/arnavbhatiamait/ESRGAN-4x/blob/45bf3042103b903c0fe959eae0685ac20fec851d/Demo%20images/sragn_final.mp4) -->
+<video width="720" height="405" controls>
+  <source src="https://github.com/arnavbhatiamait/ESRGAN-4x/raw/45bf3042103b903c0fe959eae0685ac20fec851d/Demo%20images/sragn_final.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 Take a look at the results below:
 
 - **Original vs. Upscaled (4x):**
